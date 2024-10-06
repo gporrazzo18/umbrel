@@ -1,8 +1,8 @@
-manifestVersion: 1
+manifestVersion: 2
 id: garrick-mineos
 name: MineOS Test
 tagline: temp test
-icon: https://svgur.com/i/mvA.svg
+icon: https://svgshare.com/i/1BAU.svg
 category: Development
 version: "1.0.0"
 port: 1587
