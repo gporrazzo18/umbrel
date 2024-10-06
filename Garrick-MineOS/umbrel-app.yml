@@ -1,0 +1,11 @@
+manifestVersion: 1
+id: Garrick-MineOS
+name: MineOS Test
+tagline: temp test
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "1.0.0"
+port: 8443
+description: >-
+  Add your app's description here.
+
