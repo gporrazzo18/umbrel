@@ -1,9 +1,10 @@
-manifestVersion: 2
+manifestVersion: 1
 id: garrick-mineos
 name: MineOS Test
-tagline: temp test
-icon: https://svgshare.com/i/1BAU.svg
+tagline: Replace this tagline with your app's tagline
+icon: https://svgur.com/i/mvA.svg
 category: Development
-version: "1.0.0"
-port: 1587
-description: > a test of mineos 
+version: "2.0.0"
+port: 4000
+description: >-
+  Very much giving yes
