@@ -10,4 +10,4 @@ services:
 
     volumes:
       # This can also be an absolute path as well.
-      - ./data:/data
+      - /var/octoeverywhere/plugin/data
